@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: aqua;
+}
+
+.logo
+.navbar{
+    display: flex
+    flex-direction: column;
+     float: right 
+}
+
+.Hero-text{
+    background-color: antiquewhite;
+}
+
+.signup-button{
+    background-color: blue;
+    color: white
+}
+
+#man{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+footer {
+    text-align:center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+}
